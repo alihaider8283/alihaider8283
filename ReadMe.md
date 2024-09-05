@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hello, I'm Ali Haider 👋<br><br>I am a skilled Mobile App developer specializing in React Native.<br><br>### My Expertise:<br>- **Frontend Development**<br>- **React Native**<br>- **JavaScript**<br>- **Redux**<br>- **Firebase**<br>- **Node.js**<br>- **MongoDB**<br><br>### Why Choose Me?<br>My skills and experience in mobile app development, combined with my knowledge of modern tools and frameworks, make me a valuable asset for any organization looking for a capable mobile app developer.<br>
+## Hello, I'm Ali Haider 👋<br><br>I am a skilled Mobile App developer specializing in React Native.<br><br>### My Expertise:<br>- **Frontend Development**<br>- **React Native**<br>- **JavaScript**<br>- **Redux**<br>- **Firebase**<br>- **Node.js**<br>- **MongoDB**<br><br>
 
 
 ## 🌐 Socials:
